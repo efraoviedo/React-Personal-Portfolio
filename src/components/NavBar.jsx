@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { FaBars, FaTimes } from "react-icons/fa";
+import { FaBeer, FaTimes } from "react-icons/fa";
 import { Link } from "react-scroll";
 
 const NavBar = () => {
@@ -56,7 +56,7 @@ const NavBar = () => {
         className="cursor-pointer pr-4 z-10 text-gray-500 
         md:hidden"
       >
-        {nav ? <FaTimes size={30} /> : <FaBars size={30} />}
+        {nav ? <FaTimes size={30} /> : <FaBeer size={30} />}
       </div>
 
       {nav && (
