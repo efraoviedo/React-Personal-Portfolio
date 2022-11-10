@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/React-Personal-Portfolio/static/css/main.b9ca4f01.css",
+    "main.js": "/React-Personal-Portfolio/static/js/main.ae96ca5f.js",
+    "static/media/appWeather.png": "/React-Personal-Portfolio/static/media/appWeather.440b7ca60b1edcf639f6.png",
+    "static/media/memoryGame.png": "/React-Personal-Portfolio/static/media/memoryGame.780426f7c5f8ab720bac.png",
+    "static/media/rockPaperScissorsGame.png": "/React-Personal-Portfolio/static/media/rockPaperScissorsGame.25443874669d8e018cb8.png",
+    "static/media/facebookClone.png": "/React-Personal-Portfolio/static/media/facebookClone.40dcf5213c82f61f12ea.png",
+    "static/media/heroImage.png": "/React-Personal-Portfolio/static/media/heroImage.3660d26f2a60cf97d847.png",
+    "static/media/calculator1.png": "/React-Personal-Portfolio/static/media/calculator1.877961219b2782d14c7e.png",
+    "static/media/battleShipProject.png": "/React-Personal-Portfolio/static/media/battleShipProject.61d6bb4e78ecf24fb445.png",
+    "static/media/nodeJs.png": "/React-Personal-Portfolio/static/media/nodeJs.f59e656bacf96b4728a0.png",
+    "static/media/ticTacTocGame.png": "/React-Personal-Portfolio/static/media/ticTacTocGame.4f1bc31dc9124e3fd20b.png",
+    "static/media/react.png": "/React-Personal-Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/webPack.png": "/React-Personal-Portfolio/static/media/webPack.a5418068f0b2c155e607.png",
+    "static/media/EtchASketchGame.png": "/React-Personal-Portfolio/static/media/EtchASketchGame.5580b1ae136216ed576a.png",
+    "static/media/cvApplication.png": "/React-Personal-Portfolio/static/media/cvApplication.44cd9beb21a52b56c2ba.png",
+    "static/media/github.png": "/React-Personal-Portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/firebase.png": "/React-Personal-Portfolio/static/media/firebase.2b69e9963e9fdeca6fee.png",
+    "static/media/html.png": "/React-Personal-Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/React-Personal-Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/React-Personal-Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/React-Personal-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/React-Personal-Portfolio/index.html",
+    "main.b9ca4f01.css.map": "/React-Personal-Portfolio/static/css/main.b9ca4f01.css.map",
+    "main.ae96ca5f.js.map": "/React-Personal-Portfolio/static/js/main.ae96ca5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9ca4f01.css",
+    "static/js/main.ae96ca5f.js"
+  ]
+}
