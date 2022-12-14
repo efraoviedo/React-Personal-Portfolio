@@ -7,12 +7,20 @@ import cvApplication from "../assets/portfolio/cvApplication.png";
 import battleShipProject from "../assets/portfolio/battleShipProject.png";
 import rockPaperScissorsGame from "../assets/portfolio/rockPaperScissorsGame.png";
 import EtchASketchGame from "../assets/portfolio/EtchASketchGame.png";
+import uber from "../assets/portfolio/uber.gif";
 
 import ticTacTocGame from "../assets/portfolio/ticTacTocGame.png";
 import { Link } from "react-scroll";
 
 const Portfolio = () => {
   const portfolios = [
+    {
+      id: 0,
+      src: uber,
+      title: "Uber Clone App",
+      href: "https://github.com/efraoviedo/react-native-uber-clone-yt",
+      style: " w-240 ",
+    }, 
     {
       id: 1,
       src: calculator1,

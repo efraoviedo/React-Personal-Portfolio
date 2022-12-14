@@ -33,6 +33,7 @@ const SocialLinks = () => {
         </>
       ),
       href: "https://mail.google.com/mail",
+      // href: "mailto:efraoviedo@gmail.com",
     },
     {
       id: 4,
@@ -43,6 +44,7 @@ const SocialLinks = () => {
       ),
       href: "/resume.pdf",
       style: "rounded-br-md",
+      download: true,
     },
   ];
   return (

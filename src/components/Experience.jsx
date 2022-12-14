@@ -8,6 +8,7 @@ import firebase from "../assets/firebase.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
 import webPack from "../assets/webPack.png";
+import typeScript from "../assets/typeScript.png";
 
 const Experience = () => {
   const techs = [
@@ -38,8 +39,8 @@ const Experience = () => {
     },
     {
       id: 6,
-      src: tailwind,
-      title: "Tailwind",
+      src: typeScript,
+      title: "typeScript",
       style: "shadow-sky-500",
     },
     {
@@ -67,13 +68,19 @@ const Experience = () => {
       title: "WebPack",
       style: "shadow-orange-500",
     },
+    {
+      id: 10,
+      src: tailwind,
+      title: "Tailwind",
+      style: "shadow-sky-500",
+    },
   ];
 
   return (
     <div
       name="experience"
       className="pt-24 bg-gradient-to-b 
-    from-gray-800 to-black w-full h-screen"
+    from-gray-800 to-black min-h-fit"
     >
       <div
         className="max-w-screen-lg mx-auto p-4 flex flex-col
