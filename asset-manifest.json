@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/React-Personal-Portfolio/static/css/main.b9ca4f01.css",
-    "main.js": "/React-Personal-Portfolio/static/js/main.ae96ca5f.js",
+    "main.css": "/React-Personal-Portfolio/static/css/main.8389bf7f.css",
+    "main.js": "/React-Personal-Portfolio/static/js/main.3a26794e.js",
+    "static/media/uber.gif": "/React-Personal-Portfolio/static/media/uber.be7832b23b8854684c7a.gif",
     "static/media/appWeather.png": "/React-Personal-Portfolio/static/media/appWeather.440b7ca60b1edcf639f6.png",
     "static/media/memoryGame.png": "/React-Personal-Portfolio/static/media/memoryGame.780426f7c5f8ab720bac.png",
     "static/media/rockPaperScissorsGame.png": "/React-Personal-Portfolio/static/media/rockPaperScissorsGame.25443874669d8e018cb8.png",
@@ -22,11 +23,11 @@
     "static/media/css.png": "/React-Personal-Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/React-Personal-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/React-Personal-Portfolio/index.html",
-    "main.b9ca4f01.css.map": "/React-Personal-Portfolio/static/css/main.b9ca4f01.css.map",
-    "main.ae96ca5f.js.map": "/React-Personal-Portfolio/static/js/main.ae96ca5f.js.map"
+    "main.8389bf7f.css.map": "/React-Personal-Portfolio/static/css/main.8389bf7f.css.map",
+    "main.3a26794e.js.map": "/React-Personal-Portfolio/static/js/main.3a26794e.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9ca4f01.css",
-    "static/js/main.ae96ca5f.js"
+    "static/css/main.8389bf7f.css",
+    "static/js/main.3a26794e.js"
   ]
 }
