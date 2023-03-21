@@ -8,6 +8,8 @@ import battleShipProject from "../assets/portfolio/battleShipProject.png";
 import rockPaperScissorsGame from "../assets/portfolio/rockPaperScissorsGame.png";
 import EtchASketchGame from "../assets/portfolio/EtchASketchGame.png";
 import uber from "../assets/portfolio/uber.gif";
+import chatgpt from "../assets/portfolio/imgChatgpt.png";
+import amazon from "../assets/portfolio/amazonImage.png";
 
 import ticTacTocGame from "../assets/portfolio/ticTacTocGame.png";
 import { Link } from "react-scroll";
@@ -22,10 +24,24 @@ const Portfolio = () => {
       style: " w-240 ",
     }, 
     {
+      id: 10,
+      src: chatgpt,
+      title: "Clone ChatGPT",
+      href: "https://clo-chatgpt-7xdse3val-efraoviedo.vercel.app/",
+      style: " w-240 ",
+    },
+    {
+      id: 11,
+      src: amazon,
+      title: "Clone Amazon",
+      href: "https://amazon-2-clone-7ogibsk5i-efraoviedo.vercel.app/",
+      style: " w-240 ",
+    },  
+    {
       id: 1,
       src: calculator1,
       title: "Digital Calculator",
-      href: "https://github.com/efraoviedo/Calculadora",
+      href: "https://efraoviedo.github.io/Calculadora/",
     },
     {
       id: 7,
@@ -43,7 +59,7 @@ const Portfolio = () => {
       id: 9,
       src: memoryGame,
       title: "Memory Game",
-      href: "https://github.com/efraoviedo/My-add-memorygame",
+      href: "https://efraoviedo.github.io/My-add-memorygame/",
     },
     {
       id: 2,
