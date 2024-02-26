@@ -161,7 +161,7 @@ const Portfolio = () => {
                   className="w-1/2 px-6 py-3 m-4 duration-200
                             hover:scale-105"
                 >
-                  Demo
+                  Techs.
                 </Link>
                 <Link
                   to={"home"}
@@ -170,7 +170,7 @@ const Portfolio = () => {
                   className="w-1/2 px-6 py-3 m-4 duration-200
                             hover:scale-105"
                 >
-                  Code
+                  Author
                 </Link>
               </div>
             </div>

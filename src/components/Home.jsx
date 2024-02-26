@@ -19,7 +19,7 @@ const Home = () => {
             className="text-4xl sm:text-7xl font-bold
           text-white"
           >
-            I'am a Fronted Developer
+            I'am a Full Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
             I have experience building and designing software. Currently, I love

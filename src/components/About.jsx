@@ -20,14 +20,14 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-20">
+        <p className="text-sm md:text-lg mt-20">
           HELLO. My name is Efrain Oviedo T i am Front end developer Web
           Designer • Designing complex interfaces and executing various key
           operating tasks as assigned. I love to create web pages with code, and
-          I wasn't web developer always I worked in other area and always
-          wanted to work on different work but when I met about technologies of
-          web development I loved it. I put all of myself to get in this world.
-          Now I can create design Apps web pages , i like to solve problems and
+          I wasn't web developer always I worked in other area and always wanted
+          to work on different work but when I met about technologies of web
+          development I loved it. I put all of myself to get in this world. Now
+          I can create design Apps web pages , i like to solve problems and
           resolve all de bugs that can be present I know that I don't know
           everything but I 'am always willing to do the best of me. I have
           developed great search skills in order to build my code and so finish
@@ -38,9 +38,9 @@ const About = () => {
 
         <br />
 
-        <p className="text-xl">
-          Next, I am offering the ability to use all software necessary for the
-          role at an wait level. Possessing a strong attention to detail and
+        <p className="text-sm md:text-lg">
+          I am offering the ability to use all software necessary for the role
+          at an wait level. Possessing a strong attention to detail and
           exceptional critical thinking skills, I am a native Colombian speaker
           with a proficiency in English level b1-b2 . Please do not hesitate to
           contact me if you need any additional information on my

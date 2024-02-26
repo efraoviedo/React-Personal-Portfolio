@@ -34,7 +34,7 @@ const NavBar = () => {
     text-white bg-black px-4 fixed"
     >
       <div>
-        <h1 className="text-4xl font-Oswald ml-2">Efrain</h1>
+        <h1 className="text-5xl font-Oswald ml-2">Efrain</h1>
       </div>
       <ul className="hidden md:flex">
         {links.map(({ id, link }) => (
