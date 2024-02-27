@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-Personal-Portfolio/static/css/main.8389bf7f.css",
-    "main.js": "/React-Personal-Portfolio/static/js/main.72cc0922.js",
+    "main.css": "/React-Personal-Portfolio/static/css/main.1893f3da.css",
+    "main.js": "/React-Personal-Portfolio/static/js/main.4f1eff42.js",
     "static/media/uber.gif": "/React-Personal-Portfolio/static/media/uber.be7832b23b8854684c7a.gif",
     "static/media/appWeather.png": "/React-Personal-Portfolio/static/media/appWeather.440b7ca60b1edcf639f6.png",
     "static/media/memoryGame.png": "/React-Personal-Portfolio/static/media/memoryGame.780426f7c5f8ab720bac.png",
@@ -25,11 +25,11 @@
     "static/media/css.png": "/React-Personal-Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/React-Personal-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/React-Personal-Portfolio/index.html",
-    "main.8389bf7f.css.map": "/React-Personal-Portfolio/static/css/main.8389bf7f.css.map",
-    "main.72cc0922.js.map": "/React-Personal-Portfolio/static/js/main.72cc0922.js.map"
+    "main.1893f3da.css.map": "/React-Personal-Portfolio/static/css/main.1893f3da.css.map",
+    "main.4f1eff42.js.map": "/React-Personal-Portfolio/static/js/main.4f1eff42.js.map"
   },
   "entrypoints": [
-    "static/css/main.8389bf7f.css",
-    "static/js/main.72cc0922.js"
+    "static/css/main.1893f3da.css",
+    "static/js/main.4f1eff42.js"
   ]
 }
