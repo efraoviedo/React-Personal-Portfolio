@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div
       name="about"
-      className="bg-gradient-to-b
+      className="pt-20 bg-gradient-to-b
     from-gray-800 to-black text-white min-h-fit"
     >
       <div

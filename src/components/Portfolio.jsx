@@ -33,8 +33,8 @@ const Portfolio = () => {
     {
       id: 11,
       src: amazon,
-      title: "Clone Amazon",
-      href: "https://amazon-2-clone-7ogibsk5i-efraoviedo.vercel.app/",
+      title: "Amazon Clone",
+      href: "https://amazon-2-clone-beta.vercel.app/",
       style: " w-240 ",
     },  
     {
@@ -96,7 +96,7 @@ const Portfolio = () => {
   return (
     <div
       name="portfolio"
-      className="bg-gradient-to-b from-black
+      className="pt-24 bg-gradient-to-b from-black
     to-gray-800 text-white min-h-fit"
     >
       <div
