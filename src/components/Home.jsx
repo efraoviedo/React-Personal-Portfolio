@@ -23,7 +23,7 @@ const Home = () => {
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
             I have experience building and designing software. Currently, I love
-            to work on web application using technologies like React, Html, css,
+            to work on web application using technologies like React.js, React Native, Html, css,
             javaScript and Nodejs.
           </p>
 

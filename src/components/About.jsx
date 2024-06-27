@@ -21,7 +21,7 @@ const About = () => {
         </div>
 
         <p className="text-sm md:text-lg mt-20">
-          HELLO. My name is Efrain Oviedo T i am Front end developer Web
+          HELLO. My name is Efrain Oviedo T. I'am a Front end developer ° Web
           Designer • Designing complex interfaces and executing various key
           operating tasks as assigned. I love to create web pages with code, and
           I wasn't web developer always I worked in other area and always wanted
@@ -39,7 +39,7 @@ const About = () => {
         <br />
 
         <p className="text-sm md:text-lg">
-          I am offering the ability to use all software necessary for the role
+          I'am offering the ability to use all software necessary for the role
           at an wait level. Possessing a strong attention to detail and
           exceptional critical thinking skills, I am a native Colombian speaker
           with a proficiency in English level b1-b2 . Please do not hesitate to
