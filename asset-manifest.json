@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Personal-Portfolio/static/css/main.5d5e2ed1.css",
-    "main.js": "/React-Personal-Portfolio/static/js/main.66138a1f.js",
+    "main.js": "/React-Personal-Portfolio/static/js/main.ad27f7b7.js",
     "static/media/uber.gif": "/React-Personal-Portfolio/static/media/uber.be7832b23b8854684c7a.gif",
     "static/media/appWeather.png": "/React-Personal-Portfolio/static/media/appWeather.440b7ca60b1edcf639f6.png",
     "static/media/memoryGame.png": "/React-Personal-Portfolio/static/media/memoryGame.780426f7c5f8ab720bac.png",
@@ -26,10 +26,10 @@
     "static/media/javascript.png": "/React-Personal-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/React-Personal-Portfolio/index.html",
     "main.5d5e2ed1.css.map": "/React-Personal-Portfolio/static/css/main.5d5e2ed1.css.map",
-    "main.66138a1f.js.map": "/React-Personal-Portfolio/static/js/main.66138a1f.js.map"
+    "main.ad27f7b7.js.map": "/React-Personal-Portfolio/static/js/main.ad27f7b7.js.map"
   },
   "entrypoints": [
     "static/css/main.5d5e2ed1.css",
-    "static/js/main.66138a1f.js"
+    "static/js/main.ad27f7b7.js"
   ]
 }
